@@ -1,3 +1,4 @@
+/*Below are the style rules for the entire webpage and the background color for the body*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Below are the style rules for the header, rendering the SEO in Horiseon in grey 
+and the rest of the work in white, highlighting the main purpose of search engine optimisation*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', sans-serif;
@@ -24,6 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Below are the style rules for the three links in the navigation bar*/
 header nav {
     padding-top: 10px;
     margin-right: 10px;
@@ -41,6 +45,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*Did not alter anchor or paragraph styles from starter code*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +54,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*Below is the style rule for the main image on the page, unaltered from starter code*/
 .image {
     height: 800px;
     width: 100%;
@@ -58,6 +63,8 @@ p {
     background-position: center;
 }
 
+/*Below are the rules formatting the text boxes in which descriptions of the services are written,
+alternating the images in the main boxes from left to right to left, and vice-versa for the text*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -85,6 +92,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidated "Lead Generation", "Brand Awareness", and "Cost Management" classes in the aside sections 
+into "benefit" to shorten code*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +110,8 @@ p {
     max-width: 150px;
 }
 
+/*Consolidated "search-engine-optimization", "online-reputation-management", and "social-media-marketing" classes 
+into "services" to shorten code*/
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +130,7 @@ p {
     font-size: 36px;
 }
 
+/*Unalterned from starter code*/
 .footer {
     padding: 30px;
     clear: both;
