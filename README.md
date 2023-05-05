@@ -1,5 +1,5 @@
 # Accessible Horiseon Website
-## HTML, CSS, and Git: Code Refractor 
+## HTML, CSS, and Git: Code Refactor 
 ### (Bootcamp Challenge 01)
 
 
