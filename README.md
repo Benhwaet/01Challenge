@@ -32,6 +32,7 @@ Must resemble the following image:
 <img src="assets/images/01-html-css-git-homework-demo.png" alt="Mock-up for webpage appearance goal" />
 ## Usage
 This project is a webpage and can be accessed through the following URL:
+https://benhwaet.github.io/Accessible-Horiseons-C01/
 
 It's only interactive features are the links on the navigation bar that lead to their eponymous sections on the webpage.
 
